@@ -1,0 +1,14 @@
+{
+  "name": "electronminer",
+  "version": "1.0.0",
+  "description": "Little headless monero miner running in electron using coinhive.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rice Rocca <me@ricerocca.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^2.0.2"
+  }
+}
